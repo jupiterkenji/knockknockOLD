@@ -1,0 +1,5 @@
+*.vsix
+/bin
+/obj
+.vscode/
+/Properties
